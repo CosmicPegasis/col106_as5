@@ -1,0 +1,130 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/eppcompiler.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/eppcompiler.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/exprtreenode.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/exprtreenode.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/heapnode.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/heapnode.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/minheap.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/minheap.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/parser.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/parser.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/symnode.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/symnode.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "src/symtable.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/src/symtable.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-O3",
+      "-std=c++17",
+      "-o",
+      "bin/e++",
+      "tests/main.cpp"
+    ],
+    "directory": "/home/cosmic/coding/col106/as5",
+    "file": "/home/cosmic/coding/col106/as5/tests/main.cpp",
+    "output": "/home/cosmic/coding/col106/as5/bin/e++"
+  }
+]
